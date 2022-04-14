@@ -20,7 +20,7 @@ sudo apt-get install python3 ufw
 ### 2 download the script
 
 ```
-wget https://https://raw.githubusercontent.com/mn-Devs/python-UFW-managment/main/script.py
+wget https://raw.githubusercontent.com/mn-Devs/python-UFW-managment/main/script.py
 ```
 
 ### 3 run the script
